@@ -1,4 +1,6 @@
-export function Letters(props) {
+import { Letter } from "./Letter"
+
+export function Letters() {
   return (
     <>
       <div className="letters">
