@@ -1,0 +1,8 @@
+.letter {
+  min-width: 40px;
+  min-height: 40px;
+  background-color: #323232;
+  border-bottom: #f9f4da;
+  margin: 4px;
+  border-radius: 4px;
+}

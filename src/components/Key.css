@@ -1,0 +1,9 @@
+.key {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #fcba29;
+  color: #1e1e1e;
+  text-align: center;
+  margin: 6px;
+}
