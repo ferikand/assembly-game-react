@@ -1,5 +1,8 @@
 import { Languages } from "./Languages"
 import { Notice } from "./Notice"
+import { Keyboard } from "./Keyboard"
+import { Letters } from "./Letters"
+import "./Main.css"
 
 export function Main() {
   const languagesArray = [
@@ -25,6 +28,8 @@ export function Main() {
         </header>
         <Notice />
         <Languages languages={languagesArray} />
+        <Letters />
+        <Keyboard />
       </div>
     </>
   )

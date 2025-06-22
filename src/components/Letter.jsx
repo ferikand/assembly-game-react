@@ -1,7 +1,9 @@
-export function Letter() {
+import "./Letter.css"
+
+export function Letter(props) {
   return (
     <>
-      <div className="letter"></div>
+      <div className="letter">{props.letter}</div>
     </>
   )
 }

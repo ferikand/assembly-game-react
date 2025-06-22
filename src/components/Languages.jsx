@@ -3,7 +3,6 @@ import "./Languages.css"
 
 export function Languages(props) {
   const langs = props.languages
-  console.log(langs)
 
   return (
     <>

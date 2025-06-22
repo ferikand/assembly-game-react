@@ -1,0 +1,7 @@
+.letters {
+  min-height: 40px;
+  display: flex;
+  flex-direction: row;
+  width: 334px;
+  justify-content: center;
+}
