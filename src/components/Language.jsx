@@ -1,3 +1,5 @@
+import "./Language.css"
+
 export function Language(props) {
   return (
     <>

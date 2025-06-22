@@ -1,3 +1,9 @@
+import "./Notice.css"
+
 export function Notice() {
-  return <></>
+  return (
+    <>
+      <div className="notice"></div>
+    </>
+  )
 }
